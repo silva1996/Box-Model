@@ -1,0 +1,20 @@
+body{
+    margin:0;
+}
+.texto{
+    width:700px;
+    height:500px;
+    background-color: #EEEEEE;
+    color: #FF0000;
+    font-size: 20px;
+    font-family: helvetica,verdana;
+    font-weight: normal;
+    text-align: center;
+    margin:auto;
+    margin-top: 20px;
+    padding-top:20px;
+    margin-bottom: 20px;
+    margin-left:20px;
+    margin-right: auto;
+    margin: 20px;
+  }
